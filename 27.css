@@ -1,0 +1,186 @@
+*{margin:0;
+padding:0;
+}
+body{
+background-color:#B0C4DE;
+font-family: 'Dancing Script', cursive;
+width:1300px;
+}
+.mul{
+max-width:1000px;
+background-color:;
+margin:0 auto;
+padding :5px;
+height:1500px;
+
+}
+.chobi{
+
+width:100px;
+height :120px;
+border:3px solid white;
+border-radius:50%;
+float:left;
+padding:5px;
+
+}
+.nam{
+float:left;
+padding:40px;
+color:green;
+
+
+}
+.inf {
+float:right;
+padding:30px;
+
+}
+.inf a{
+text-decoration:none;
+color:green;
+font-weigth:5px;
+
+}
+.inf a:hover {
+text-decoration:underline ;
+color:black;
+
+}
+.div-clear{
+clear:both;
+
+
+}
+.dag{
+border:solid black 2px ;
+width:100%;
+margin:25px auto;
+border-botton:none;
+padding:;
+
+}
+
+.left-div{
+width:30%;
+float:left;
+height :100px;
+}
+.div-right{
+
+width:70%;
+float:left;
+height:100px;
+
+}
+.div-clear{
+vlear:both;
+
+}
+hr{
+border:dotted gray 2px;
+border-botton:none;
+margin:0 auto;
+}
+
+.school{
+float:left;
+padding:5px;
+color:indigo;
+}
+school a{
+text-decoration:none;
+color:#FFFfFF;
+font-weigth:;
+
+}
+.school a:hover {
+text-decoration:underline ;
+color:green;
+
+}
+
+
+
+
+
+
+
+
+
+.clg{
+float:left;
+padding:5px;
+color:indigo;
+}
+.clg a{
+text-decoration:none;
+color:;
+font-weigth:;
+
+}
+.clg a:hover {
+text-decoration:underline ;
+color:green;
+
+}
+
+
+
+
+
+
+.uni{
+float:left;
+padding:5px;
+color:indigo;
+}
+
+.uni a{
+text-decoration:none;
+color:;
+font-weigth:;
+
+}
+.uni a:hover {
+text-decoration:underline ;
+color:green;
+
+}
+
+
+.last{
+background-color:black;
+text-align:center;
+padding:10px;
+
+
+}
+
+.last p{
+color:white;
+test-decoretion:none;
+margin:20px;
+
+
+}
+
+.last a{
+color:white;
+test-decoretion:none;
+margin:20px;
+
+
+}
+
+
+
+
+
+h3{
+color:green;
+
+}
+p{
+color: ;
+}
